@@ -41,6 +41,7 @@ To help adopting these practices, this repository also serves as a boilerplate f
 - Redis connection (using [gomodule/redigo](https://github.com/gomodule/redigo))
 
 
+
 ## First steps
 
 To create a new application from the boilerplate clone this repository (if you haven't done already) into your GOPATH
